@@ -6,7 +6,7 @@
 
   NovaCart is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://time7874.github.io/NovaCart/"><strong>➥ Live Demo</strong></a>
+  <a href="https://nexverix.github.io/NovaCart/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -29,13 +29,13 @@ To run **NovaCart** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Time7874/NovaCart
+sudo git clone https://github.com/nexverix/NovaCart
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Time7874/NovaCart
+git clone https://github.com/nexverix/NovaCart
 ```
 
 
