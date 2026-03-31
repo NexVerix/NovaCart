@@ -38,4 +38,7 @@ Windows:
 git clone https://github.com/nexverix/NovaCart
 ```
 
+---
+
+## 🚀 Built at NexVerix
 
